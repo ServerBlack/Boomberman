@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 267d4b7f9c93d3f4696a37722d58728c
-timeCreated: 1518448288
-licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: floorexploded_0
@@ -21,7 +19,7 @@ TextureImporter:
     21300028: floorexploded_14
     21300030: floorexploded_15
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 5
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -58,7 +56,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -68,11 +66,13 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -82,7 +82,52 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -113,6 +158,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 7da887078d90886429b8a2643510a470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_1
       rect:
@@ -131,6 +182,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 9fee03747a5279c4fa26f37f77bdeb4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_2
       rect:
@@ -149,6 +206,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: c59839c06da20eb448d46ba4636e8f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_3
       rect:
@@ -167,6 +230,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f0deecf21daf45a224fd661c4f972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_4
       rect:
@@ -185,6 +254,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: bf8d1fbb255025346b96245848fdf028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_5
       rect:
@@ -203,6 +278,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 7325667993f325643910323535b59860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_6
       rect:
@@ -221,6 +302,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 11fc673894fc1d8498307637de0e3539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_7
       rect:
@@ -239,6 +326,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 08d379a6cfde80e43ac2775afe0e8231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_8
       rect:
@@ -257,6 +350,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 34849fdbb3dc65842baf634ca2f906d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_9
       rect:
@@ -275,6 +374,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 0039b1bd2667c1441a20ada3523953c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_10
       rect:
@@ -293,6 +398,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: d6d796a6c2a845c4388acfd8a22f9758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_11
       rect:
@@ -311,6 +422,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 05f952991c66f65498f6880676c4a9c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_12
       rect:
@@ -329,6 +446,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 681144d429d999f42b891ae7fc7896f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_13
       rect:
@@ -347,6 +470,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: caf9a02a909c00c4f953f6b0c732ead7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_14
       rect:
@@ -365,6 +494,12 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 22896c4b68210e849995571809fbaa23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: floorexploded_15
       rect:
@@ -383,8 +518,20 @@ TextureImporter:
         - {x: 8, y: -8}
         - {x: 8, y: 8}
       tessellationDetail: 0
+      bones: []
+      spriteID: 14038d5b50bd0e8438a5a20c7e083e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
